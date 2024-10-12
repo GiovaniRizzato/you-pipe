@@ -1,0 +1,6 @@
+@YouPipe_HostAddress = http://localhost:5232
+
+GET {{YouPipe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
